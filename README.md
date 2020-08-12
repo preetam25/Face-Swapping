@@ -7,6 +7,8 @@ Execute following commands in `Code` directory
 2. python3 flandmark.py > flandmark.txt     // In terminal
 3. seamSearch                               // In matlab
 
+For details, refer to the [presentation](Report/Presentation.pptx) and the [report](Report/Report.pdf)
+
 This project is part of Digital Image Processing (CS663 @EE.IITB)
 
 ### Team
